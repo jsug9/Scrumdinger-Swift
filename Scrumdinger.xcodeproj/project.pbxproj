@@ -15,6 +15,8 @@
 		1446A511289A170D007A337A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1446A4FE289A170D007A337A /* Assets.xcassets */; };
 		1446A51C289A1D92007A337A /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1446A51B289A1D92007A337A /* Theme.swift */; };
 		1446A51E289A220E007A337A /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1446A51D289A220E007A337A /* DailyScrum.swift */; };
+		1446A520289A230D007A337A /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1446A51F289A230D007A337A /* CardView.swift */; };
+		1446A522289A2758007A337A /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1446A521289A2758007A337A /* TrailingIconLabelStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		1446A50B289A170D007A337A /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		1446A51B289A1D92007A337A /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		1446A51D289A220E007A337A /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		1446A51F289A230D007A337A /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		1446A521289A2758007A337A /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				1446A51A289A1CD8007A337A /* Models */,
 				1446A4FC289A170C007A337A /* ScrumdingerApp.swift */,
 				1446A4FD289A170C007A337A /* MeetingView.swift */,
+				1446A51F289A230D007A337A /* CardView.swift */,
+				1446A521289A2758007A337A /* TrailingIconLabelStyle.swift */,
 				1446A4FE289A170D007A337A /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -191,9 +197,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1446A51E289A220E007A337A /* DailyScrum.swift in Sources */,
+				1446A522289A2758007A337A /* TrailingIconLabelStyle.swift in Sources */,
 				1446A51C289A1D92007A337A /* Theme.swift in Sources */,
 				1446A50E289A170D007A337A /* MeetingView.swift in Sources */,
 				1446A50C289A170D007A337A /* ScrumdingerApp.swift in Sources */,
+				1446A520289A230D007A337A /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
