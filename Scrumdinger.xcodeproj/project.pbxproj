@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1445F9B8289C72B3009D34EF /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1445F9B7289C72B3009D34EF /* ScrumsView.swift */; };
+		1445F9BA289C75D1009D34EF /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1445F9B9289C75D1009D34EF /* DetailView.swift */; };
 		1446A50C289A170D007A337A /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1446A4FC289A170C007A337A /* ScrumdingerApp.swift */; };
 		1446A50D289A170D007A337A /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1446A4FC289A170C007A337A /* ScrumdingerApp.swift */; };
 		1446A50E289A170D007A337A /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1446A4FD289A170C007A337A /* MeetingView.swift */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		1445F9B7289C72B3009D34EF /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		1445F9B9289C75D1009D34EF /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		1446A4FC289A170C007A337A /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		1446A4FD289A170C007A337A /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
 		1446A4FE289A170D007A337A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				1446A51A289A1CD8007A337A /* Models */,
 				1446A4FC289A170C007A337A /* ScrumdingerApp.swift */,
 				1445F9B7289C72B3009D34EF /* ScrumsView.swift */,
+				1445F9B9289C75D1009D34EF /* DetailView.swift */,
 				1446A4FD289A170C007A337A /* MeetingView.swift */,
 				1446A51F289A230D007A337A /* CardView.swift */,
 				1446A521289A2758007A337A /* TrailingIconLabelStyle.swift */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1446A51E289A220E007A337A /* DailyScrum.swift in Sources */,
+				1445F9BA289C75D1009D34EF /* DetailView.swift in Sources */,
 				1446A522289A2758007A337A /* TrailingIconLabelStyle.swift in Sources */,
 				1446A51C289A1D92007A337A /* Theme.swift in Sources */,
 				1445F9B8289C72B3009D34EF /* ScrumsView.swift in Sources */,
