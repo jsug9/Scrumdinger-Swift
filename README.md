@@ -23,3 +23,7 @@ Feel free to check the [issues page](https://github.com/jsug9/scrumdinger-swift/
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
